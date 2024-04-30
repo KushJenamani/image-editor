@@ -1,0 +1,49 @@
+cena.jpg / Contrast / 100.0 / 2024-01-02T19:13:57.419096275
+cena.jpg / Flip / N/A / 2024-01-02T19:51:24.422198535
+cena.jpg / Flip / Horizontal Value 1 Vertical Value 0 / 2024-01-02T19:53:47.313462444
+cena.jpg / Flip / Horizontal Value 1 Vertical Value 1 / 2024-01-02T19:54:00.528597904
+cena.jpg / Flip / Horizontal Value 0 Vertical Value 1 / 2024-01-02T19:54:11.729343117
+cena.jpg / Flip / Horizontal Value 0 Vertical Value 1 / 2024-01-02T19:54:15.100694622
+cena.jpg / Grayscale / N/A / 2024-01-02T20:15:05.321405969
+cena.jpg / Invert / N/A / 2024-01-02T20:58:54.843738721
+cena.jpg / Sepia / N/A / 2024-01-02T20:59:14.077909988
+cena.jpg / Rotation / By 270 / 2024-01-02T21:14:15.131200445
+cena.jpg / Rotation / By 270 / 2024-01-02T21:14:41.826988345
+cena.jpg / Rotation / By 90 / 2024-01-02T21:22:49.758687281
+cena.jpg / Rotation / By 180 / 2024-01-02T21:23:06.998209012
+cena.jpg / Rotation / By 270 / 2024-01-02T21:23:30.950855051
+cena.jpg / Brightness / 18.0 / 2024-01-02T21:35:39.074344569
+cena.jpg / Brightness / 200.0 / 2024-01-02T21:35:58.706904693
+cena.jpg / Gaussian Blur / 28.0 / 2024-01-02T22:39:14.712301950
+cena.jpg / Gaussian Blur / 28.0 / 2024-01-02T22:39:23.020765609
+cena.jpg / Gaussian Blur / 36.0 / 2024-01-02T22:43:35.182669397
+cena.jpg / Gaussian Blur / 26.0 / 2024-01-02T22:50:00.777273262
+cena.jpg / Gaussian Blur / 36.0 / 2024-01-02T22:52:38.287620703
+cena.jpg / Gaussian Blur / 0.0 / 2024-01-02T22:52:56.814893425
+cena.jpg / Gaussian Blur / 37.0 / 2024-01-02T22:53:06.623858854
+cena.jpg / Gaussian Blur / 50.0 / 2024-01-02T22:54:04.702791660
+Bliss_(Windows_XP).png / Gaussian Blur / 40.0 / 2024-01-02T22:55:18.828459013
+Bliss_(Windows_XP).png / Gaussian Blur / 29.0 / 2024-01-02T22:55:22.872382609
+Bliss_(Windows_XP).png / Gaussian Blur / 14.0 / 2024-01-02T22:55:25.707461691
+cena.jpg / Sharpen / 100.0 / 2024-01-02T23:11:48.924153730
+cena.jpg / Sharpen / 0.0 / 2024-01-02T23:12:51.797671649
+cena.jpg / Sharpen / 0.0 / 2024-01-02T23:12:52.978094523
+cena.jpg / Sharpen / 100.0 / 2024-01-02T23:12:58.717706642
+Bliss_(Windows_XP).png / Sharpen / 100.0 / 2024-01-02T23:13:48.938677237
+cena.jpg / HueSaturation / Saturation:100.0 Hue:64.0 / 2024-01-02T23:34:55.732326358
+cena.jpg / HueSaturation / Saturation:100.0 Hue:0.0 / 2024-01-02T23:35:16.616356052
+cena.jpg / HueSaturation / Saturation:100.0 Hue:0.0 / 2024-01-02T23:35:30.174836223
+Bliss_(Windows_XP).png / HueSaturation / Saturation:100.0 Hue:0.0 / 2024-01-02T23:35:45.432256628
+Bliss_(Windows_XP).png / HueSaturation / Saturation:100.0 Hue:66.0 / 2024-01-02T23:35:48.890101042
+Bliss_(Windows_XP).png / HueSaturation / Saturation:100.0 Hue:66.0 / 2024-01-02T23:35:50.266287272
+Bliss_(Windows_XP).png / HueSaturation / Saturation:33.0 Hue:66.0 / 2024-01-02T23:35:56.844929050
+Bliss_(Windows_XP).png / HueSaturation / Saturation:58.0 Hue:49.0 / 2024-01-02T23:42:20.200408616
+cena.jpg / Brightness / 170.0 / 2024-01-02T23:46:15.359966008
+cena.jpg / Contrast / 33.0 / 2024-01-02T23:46:32.214134851
+cena.jpg / Flip / Horizontal Value:0 Vertical Value: 1 / 2024-01-02T23:46:44.781888518
+cena.jpg / Gaussian Blur / 10.0 / 2024-01-02T23:46:58.194450927
+cena.jpg / Grayscale / N/A / 2024-01-02T23:47:14.036078047
+cena.jpg / Invert / N/A / 2024-01-02T23:47:24.869539516
+cena.jpg / Rotation / By 90 degrees / 2024-01-02T23:47:37.612855884
+cena.jpg / Sepia / N/A / 2024-01-02T23:47:48.414954923
+cena.jpg / Sharpen / 80.0 / 2024-01-02T23:48:01.945330115
